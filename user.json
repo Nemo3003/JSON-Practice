@@ -1,0 +1,11 @@
+{
+  "user": "Ulises",
+  "age": 20,
+  "isProgrammer": true,
+  "hobbies": ["Book reading", "Cat petting"],
+  "friends": [{
+  	"name": "Joey",
+    "age": 25,
+    "isProgrammer": false,
+  }]
+}
